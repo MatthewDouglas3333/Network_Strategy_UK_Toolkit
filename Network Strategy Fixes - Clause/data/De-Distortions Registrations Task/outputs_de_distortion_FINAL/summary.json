@@ -1,0 +1,109 @@
+{
+  "created_at": "2026-06-26T16:49:19",
+  "policy": {
+    "factory_hold": "factory/HQ/production reference rows held to local district average (district->area->national); excess removed, not redistributed",
+    "dealer_demo_removal": "banded 0/20/50/80% vs local area baseline, floored at baseline, not redistributed",
+    "finance_redistribution": "hold to local baseline, redistribute excess UK-wide by clean distribution",
+    "review_keep": "review_before_delete non-finance kept and flagged only",
+    "dealer_bands": {
+      "<=2x": "0%",
+      "2-4x": "20%",
+      "4-8x": "50%",
+      ">8x": "80%"
+    }
+  },
+  "counts": {
+    "raw_nonzero_rows": 18498,
+    "primary_fit_rows": 13393,
+    "excluded_rows": 5105,
+    "annual_rows": 10793,
+    "factory_hold_sector_years": 36,
+    "dealer_reduced_sector_years": 315,
+    "finance_sector_years": 34,
+    "statistical_finance_candidates": 18,
+    "offshore_island_rows_excluded": 134
+  },
+  "volumes": {
+    "raw_total": 20597.0,
+    "primary_before_cleaning": 15063.0,
+    "primary_after_cleaning": 13053.72,
+    "factory_excess_removed": 1141.38,
+    "factory_held_to_local_avg": 41.62,
+    "dealer_demo_removed": 867.9,
+    "finance_excess_identified": 123.16,
+    "finance_excess_redistributed": 123.16,
+    "finance_excess_unredistributed": 0.0,
+    "offshore_island_regs_excluded": 155.0,
+    "net_change_vs_before": -2009.28
+  },
+  "review_overrides": {
+    "le7_added_as_dealer": "Sytner Lamborghini + Bentley Leicester (LE7 1PF), missing from competitor file",
+    "bd1_finance_trade_hotspot": "Bradford supercar hire/trade cluster (ABM Exclusive Supercar Hire, CFA Prestige)",
+    "sw1p2_finance_admin_cluster": "Westminster Lamborghini admin/finance cluster (103 regs, no dealer)",
+    "district_granularity_fix": "district-only rows (e.g. CW1) now match factory/dealer/finance sites recorded as full sectors (e.g. CW1 3)",
+    "islands_excluded": [
+      "GY",
+      "IM",
+      "JE"
+    ],
+    "am_works_mk16_9": "kept in fit (active dealership), flagged only",
+    "le5_mk15_8": "left in fit, flagged - no confirmed dealer/finance cause"
+  },
+  "brand_totals_primary_before": {
+    "Aston Martin": 2777,
+    "Bentley": 4013,
+    "Ferrari": 3500,
+    "Lamborghini": 2639,
+    "McLaren": 857,
+    "Rolls-Royce": 1277
+  },
+  "brand_totals_primary_after": {
+    "Aston Martin": 2382.42,
+    "Bentley": 3213.7,
+    "Ferrari": 3451.7,
+    "Lamborghini": 2318.7,
+    "McLaren": 521.1,
+    "Rolls-Royce": 1166.1
+  },
+  "treatment_sector_year_counts": {
+    "keep": 9836,
+    "dealer": 625,
+    "factory_hold": 36,
+    "finance": 34
+  },
+  "dealer_info": {
+    "competitor_dealer_pairs": 74,
+    "dealer_change_pairs": 17,
+    "mclaren_dealer_pairs": 8,
+    "mclaren_postcode_column": "Postcode",
+    "mclaren_dealer_sectors": [
+      "AL10 9",
+      "B94 5",
+      "KT24 6",
+      "LS9 0",
+      "ML3 0",
+      "RG12 2",
+      "SK9 3",
+      "SO43 7"
+    ],
+    "review_added_dealer_pairs": [
+      [
+        "bentley",
+        "LE7"
+      ],
+      [
+        "bentley",
+        "LE7 1"
+      ],
+      [
+        "lamborghini",
+        "LE7"
+      ],
+      [
+        "lamborghini",
+        "LE7 1"
+      ]
+    ],
+    "total_dealer_pairs": 89
+  }
+}

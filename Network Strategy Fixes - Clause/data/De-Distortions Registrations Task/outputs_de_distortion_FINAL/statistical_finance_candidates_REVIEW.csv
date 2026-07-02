@@ -1,0 +1,19 @@
+sector,n_brands,total_regs,brands,any_in_reference
+SW7,5,214,"aston martin, bentley, ferrari, lamborghini, rolls-royce",False
+SK9,6,191,"aston martin, bentley, ferrari, lamborghini, mclaren, rolls-royce",False
+SL5,6,129,"aston martin, bentley, ferrari, lamborghini, mclaren, rolls-royce",False
+SK10 4,5,98,"aston martin, bentley, ferrari, lamborghini, rolls-royce",False
+NW8,6,59,"aston martin, bentley, ferrari, lamborghini, mclaren, rolls-royce",False
+EN4,3,49,"bentley, ferrari, lamborghini",False
+SW3,4,44,"aston martin, bentley, ferrari, rolls-royce",False
+KT11 2,3,39,"aston martin, bentley, ferrari",False
+MK15 8,3,36,"bentley, lamborghini, rolls-royce",False
+KT22 0,4,36,"aston martin, bentley, ferrari, rolls-royce",False
+HP9,3,34,"aston martin, bentley, ferrari",False
+NW3,3,32,"aston martin, bentley, ferrari",False
+GU25 4,3,31,"bentley, ferrari, lamborghini",False
+LE5,3,29,"bentley, ferrari, lamborghini",False
+IG7,3,29,"ferrari, lamborghini, rolls-royce",False
+KT13 0,3,28,"bentley, ferrari, rolls-royce",False
+LE7,3,26,"aston martin, ferrari, rolls-royce",False
+BD1,3,23,"bentley, lamborghini, rolls-royce",False

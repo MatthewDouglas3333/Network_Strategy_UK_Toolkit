@@ -1,0 +1,135 @@
+month,year,sector,area,brand,Sub Model,sub_segment,registrations
+2022-01,2022,JE3,JE,Ferrari,Ferrari F8,Core Supercar,2
+2022-01,2022,JE3,JE,Ferrari,Ferrari 812,Upper GT,2
+2022-01,2022,JE3,JE,Porsche,Porsche 911 Turbo,GT,1
+2022-01,2022,GY1,GY,Ferrari,Ferrari F8,Core Supercar,1
+2022-02,2022,GY5,GY,Mercedes-Benz,Mercedes-Benz AMG GT,GT,1
+2022-02,2022,GY8,GY,Bentley,Bentley Continental GT,GT,1
+2022-02,2022,IM4,IM,Porsche,Porsche 911 GT3,Core Supercar,1
+2022-02,2022,IM8,IM,Aston Martin,Aston Martin DBX,SUV,1
+2022-02,2022,JE3,JE,Bentley,Bentley Continental GTC,GT,1
+2022-02,2022,JE3,JE,Ferrari,Ferrari F8,Core Supercar,1
+2022-02,2022,JE3,JE,Ferrari,Ferrari SF90 Stradale,Upper Supercar,1
+2022-02,2022,JE3,JE,Ferrari,Ferrari 812,Upper GT,1
+2022-02,2022,JE3,JE,Bentley,Bentley Bentayga,SUV,2
+2022-02,2022,GY1,GY,Porsche,Porsche 911 GT3,Core Supercar,1
+2022-05,2022,JE3,JE,Porsche,Porsche 911 Turbo,GT,2
+2022-05,2022,JE2,JE,Porsche,Porsche 911 Turbo,GT,1
+2022-05,2022,GY1,GY,Bentley,Bentley Continental GTC,GT,1
+2022-06,2022,JE3,JE,Aston Martin,Aston Martin DBX,SUV,1
+2022-06,2022,JE3,JE,Porsche,Porsche 911 Turbo,GT,1
+2022-07,2022,JE3,JE,Porsche,Porsche 911 Turbo,GT,1
+2022-08,2022,IM7,IM,Ferrari,Ferrari F8,Core Supercar,1
+2022-08,2022,IM7,IM,Ferrari,Ferrari 812,Upper GT,2
+2022-08,2022,IM2,IM,Bentley,Bentley Bentayga,SUV,1
+2022-08,2022,IM2,IM,Bentley,Bentley Continental GTC,GT,1
+2022-08,2022,JE3,JE,Bentley,Bentley Bentayga,SUV,1
+2022-08,2022,JE3,JE,Ferrari,Ferrari 812,Upper GT,1
+2022-08,2022,JE3,JE,Bentley,Bentley Bentayga,SUV,1
+2022-08,2022,JE2,JE,Ferrari,Ferrari F8,Core Supercar,1
+2022-09,2022,IM1,IM,Porsche,Porsche 911 Turbo,GT,1
+2022-09,2022,IM4,IM,Porsche,Porsche 911 Turbo,GT,1
+2022-09,2022,JE3,JE,Aston Martin,Aston Martin DBX,SUV,1
+2022-09,2022,JE3,JE,Porsche,Porsche 911 GT3,Core Supercar,1
+2022-10,2022,IM9,IM,Porsche,Porsche 911 GT3,Core Supercar,1
+2022-11,2022,IM4,IM,Aston Martin,Aston Martin DBX,SUV,1
+2022-11,2022,JE3,JE,Porsche,Porsche 911 GT3,Core Supercar,1
+2022-11,2022,JE3,JE,Porsche,Porsche 911 Turbo,GT,1
+2022-12,2022,IM4,IM,Porsche,Porsche 911 Turbo,GT,1
+2023-01,2023,IM4,IM,Aston Martin,Aston Martin DBX,SUV,1
+2023-01,2023,IM4,IM,Aston Martin,Aston Martin DB11,GT,1
+2023-01,2023,IM4,IM,Ferrari,Ferrari Roma,GT,1
+2023-01,2023,JE3,JE,Ferrari,Ferrari 812,Upper GT,1
+2023-01,2023,JE3,JE,Ferrari,Ferrari Roma,GT,1
+2023-01,2023,GY1,GY,Ferrari,Ferrari 296,Core Supercar,1
+2023-02,2023,IM9,IM,Aston Martin,Aston Martin DBX,SUV,1
+2023-03,2023,IM1,IM,Mercedes-Benz,Mercedes-Benz AMG SL,GT,1
+2023-03,2023,JE3,JE,Porsche,Porsche 911 GT3,Core Supercar,1
+2023-03,2023,JE2,JE,Porsche,Porsche 911 Turbo,GT,1
+2023-04,2023,IM4,IM,Aston Martin,Aston Martin DBX,SUV,1
+2023-04,2023,JE3,JE,Aston Martin,Aston Martin DBX,SUV,1
+2023-04,2023,JE3,JE,Aston Martin,Aston Martin DBS,Upper GT,1
+2023-04,2023,JE3,JE,Bentley,Bentley Continental GTC,GT,1
+2023-04,2023,JE2,JE,Porsche,Porsche 911 Turbo,GT,1
+2023-04,2023,GY1,GY,Porsche,Porsche 911 Turbo,GT,1
+2023-05,2023,IM4,IM,Aston Martin,Aston Martin DB11,GT,1
+2023-05,2023,GY1,GY,Mercedes-Benz,Mercedes-Benz AMG SL,GT,1
+2023-06,2023,JE3,JE,Porsche,Porsche 911 GT3,Core Supercar,1
+2023-06,2023,JE3,JE,Porsche,Porsche 911 Turbo,GT,4
+2023-06,2023,JE2,JE,Aston Martin,Aston Martin DBX,SUV,1
+2023-07,2023,IM2,IM,Mercedes-Benz,Mercedes-Benz AMG SL,GT,1
+2023-07,2023,JE3,JE,Mercedes-Benz,Mercedes-Benz AMG SL,GT,1
+2023-08,2023,IM2,IM,Porsche,Porsche 911 Turbo,GT,1
+2023-08,2023,GY8,GY,Mercedes-Benz,Mercedes-Benz AMG SL,GT,1
+2023-08,2023,IM4,IM,Aston Martin,Aston Martin DBX,SUV,1
+2023-08,2023,IM4,IM,Porsche,Porsche 911 Turbo,GT,2
+2023-08,2023,IM9,IM,Porsche,Porsche 911 GT3,Core Supercar,2
+2023-08,2023,JE3,JE,Porsche,Porsche 911 Turbo,GT,1
+2023-08,2023,JE2,JE,Porsche,Porsche 911 Turbo,GT,1
+2023-09,2023,IM9,IM,Ferrari,Ferrari Portofino,GT,2
+2023-09,2023,JE3,JE,Ferrari,Ferrari F8,Core Supercar,1
+2023-09,2023,JE3,JE,Ferrari,Ferrari 812,Upper GT,1
+2023-09,2023,JE3,JE,Ferrari,Ferrari 296,Core Supercar,1
+2023-09,2023,JE2,JE,Ferrari,Ferrari Roma,GT,1
+2023-10,2023,IM1,IM,Mercedes-Benz,Mercedes-Benz AMG SL,GT,1
+2023-10,2023,GY7,GY,Aston Martin,Aston Martin DBX,SUV,1
+2023-10,2023,GY7,GY,Porsche,Porsche 911 GT3,Core Supercar,1
+2023-11,2023,GY4,GY,Mercedes-Benz,Mercedes-Benz AMG SL,GT,1
+2023-11,2023,GY4,GY,Porsche,Porsche 911 Turbo,GT,1
+2023-12,2023,IM5,IM,Bentley,Bentley Bentayga,SUV,1
+2023-12,2023,JE3,JE,Bentley,Bentley Continental GT,GT,2
+2023-12,2023,JE3,JE,Porsche,Porsche 911 GT3,Core Supercar,1
+2024-01,2024,JE3,JE,Aston Martin,Aston Martin DBX,SUV,2
+2024-01,2024,JE3,JE,Aston Martin,Aston Martin DB12,GT,1
+2024-01,2024,JE3,JE,Porsche,Porsche 911 GT3,Core Supercar,2
+2024-02,2024,GY8,GY,Mercedes-Benz,Mercedes-Benz AMG SL,GT,2
+2024-02,2024,IM3,IM,Porsche,Porsche 911 Turbo,GT,1
+2024-03,2024,GY4,GY,Porsche,Porsche 911 Turbo,GT,1
+2024-04,2024,JE3,JE,Aston Martin,Aston Martin DBX,SUV,1
+2024-04,2024,JE3,JE,Aston Martin,Aston Martin DB12,GT,2
+2024-04,2024,JE3,JE,Porsche,Porsche 911 GT3,Core Supercar,1
+2024-05,2024,IM1,IM,Porsche,Porsche 911 Turbo,GT,1
+2024-06,2024,IM2,IM,Porsche,Porsche 911 S/T,Core Supercar,1
+2024-06,2024,JE3,JE,Porsche,Porsche 911 GT3,Core Supercar,1
+2024-06,2024,GY1,GY,Aston Martin,Aston Martin DBX,SUV,1
+2024-07,2024,IM1,IM,Porsche,Porsche 911 GT3,Core Supercar,1
+2024-08,2024,IM4,IM,Ferrari,Ferrari 296,Core Supercar,1
+2024-08,2024,IM4,IM,Bentley,Bentley Continental GT,GT,1
+2024-08,2024,IM9,IM,Porsche,Porsche 911 S/T,Core Supercar,1
+2024-08,2024,IM9,IM,Ferrari,Ferrari 296,Core Supercar,1
+2024-08,2024,JE3,JE,Bentley,Bentley Continental GTC,GT,1
+2024-08,2024,JE3,JE,Ferrari,Ferrari Purosangue,SUV,1
+2024-08,2024,JE3,JE,Bentley,Bentley Bentayga,SUV,2
+2024-08,2024,JE3,JE,Ferrari,Ferrari 296,Core Supercar,2
+2024-08,2024,JE2,JE,Ferrari,Ferrari 296,Core Supercar,1
+2024-08,2024,GY2,GY,Ferrari,Ferrari 296,Core Supercar,1
+2024-08,2024,GY7,GY,Ferrari,Ferrari Daytona SP3,Hypercar,1
+2024-09,2024,IM2,IM,Porsche,Porsche 911 GT3,Core Supercar,1
+2024-09,2024,JE3,JE,Ferrari,Ferrari Roma,GT,1
+2024-09,2024,GY1,GY,Aston Martin,Aston Martin DBS,Upper GT,1
+2024-09,2024,GY3,GY,Porsche,Porsche 911 Turbo,GT,1
+2024-10,2024,JE3,JE,Aston Martin,Aston Martin DBX,SUV,1
+2024-10,2024,JE3,JE,Bentley,Bentley Continental GT,GT,1
+2024-10,2024,GY7,GY,Bentley,Bentley Bentayga,SUV,1
+2024-11,2024,JE3,JE,Ferrari,Ferrari 296,Core Supercar,1
+2024-11,2024,JE3,JE,Porsche,Porsche 911 GT3,Core Supercar,2
+2024-12,2024,JE3,JE,Aston Martin,Aston Martin DB12,GT,2
+2025-01,2025,JE3,JE,Bentley,Bentley Bentayga,SUV,1
+2025-02,2025,IM7,IM,Porsche,Porsche 911 Turbo,GT,1
+2025-02,2025,IM1,IM,Ferrari,Ferrari 296,Core Supercar,1
+2025-04,2025,IM1,IM,Ferrari,Ferrari 12Cilindri,Upper GT,1
+2025-04,2025,GY8,GY,Aston Martin,Aston Martin DBX,SUV,1
+2025-04,2025,JE3,JE,Aston Martin,Aston Martin DBX,SUV,1
+2025-04,2025,JE3,JE,Aston Martin,Aston Martin Vanquish,Upper GT,1
+2025-04,2025,JE3,JE,Ferrari,Ferrari Purosangue,SUV,1
+2025-04,2025,JE3,JE,Ferrari,Ferrari 296,Core Supercar,1
+2025-04,2025,GY1,GY,Porsche,Porsche 911 Turbo,GT,1
+2025-05,2025,JE3,JE,Porsche,Porsche 911 Turbo,GT,1
+2025-06,2025,JE3,JE,Porsche,Porsche 911 S/T,Core Supercar,1
+2025-06,2025,JE3,JE,Porsche,Porsche 911 GT3,Core Supercar,1
+2025-07,2025,JE3,JE,Porsche,Porsche 911 GT3,Core Supercar,1
+2025-08,2025,JE3,JE,Porsche,Porsche 911 Turbo,GT,1
+2025-09,2025,GY1,GY,Aston Martin,Aston Martin DBX,SUV,1
+2025-10,2025,IM7,IM,Porsche,Porsche 911 GT3,Core Supercar,1
+2025-10,2025,JE3,JE,Aston Martin,Aston Martin DB12,GT,2
+2025-10,2025,GY7,GY,Aston Martin,Aston Martin DB12,GT,1

@@ -1,0 +1,35 @@
+brand_key,sub_segment_key,area,sector,year,sector_annual,baseline_used,held,excess
+lamborghini,suv,SW,SW1P 2,2023,44,1.0,1.0,43.0
+lamborghini,suv,SW,SW1P 2,2022,19,1.0,1.0,18.0
+lamborghini,core supercar,SW,SW1P 2,2023,15,2.0,2.0,13.0
+lamborghini,core supercar,SW,SW1P 2,2022,9,1.0,1.0,8.0
+lamborghini,core supercar,SW,SW1P 2,2024,9,1.0,1.0,8.0
+bentley,suv,BD,BD1,2022,5,1.0,1.0,4.0
+lamborghini,upper supercar,SW,SW1P 2,2022,4,1.0,1.0,3.0
+ferrari,gt,SL,SL1,2022,5,2.3333333333333335,2.3333333333333335,2.6666666666666665
+bentley,suv,MK,MK14 5,2022,4,1.4,1.4,2.6
+rolls-royce,suv,BD,BD1,2023,4,1.5,1.5,2.5
+rolls-royce,suv,BD,BD1,2022,3,1.0,1.0,2.0
+bentley,suv,BD,BD1,2023,3,1.0,1.0,2.0
+lamborghini,suv,BD,BD1,2022,3,1.0,1.0,2.0
+lamborghini,suv,SW,SW1P 2,2024,3,1.2222222222222223,1.2222222222222223,1.7777777777777777
+ferrari,gt,SL,SL1,2024,3,1.25,1.25,1.75
+ferrari,upper gt,SL,SL1,2025,3,1.5,1.5,1.5
+lamborghini,suv,BD,BD1,2024,2,1.0,1.0,1.0
+bentley,suv,MK,MK14 5,2025,2,1.0,1.0,1.0
+ferrari,upper supercar,SL,SL1,2023,2,1.0,1.0,1.0
+ferrari,upper supercar,SL,SL1,2022,2,1.0,1.0,1.0
+ferrari,gt,SL,SL1,2023,2,1.0,1.0,1.0
+ferrari,core supercar,SL,SL1,2022,3,2.25,2.25,0.75
+ferrari,core supercar,SL,SL1,2024,2,1.25,1.25,0.75
+ferrari,core supercar,SL,SL1,2023,3,2.3333333333333335,2.3333333333333335,0.6666666666666665
+bentley,gt,MK,MK14 5,2022,2,1.8,1.8,0.19999999999999996
+bentley,gt,MK,MK14 5,2024,1,1.0,1.0,0.0
+ferrari,suv,SL,SL1,2025,1,1.0,1.0,0.0
+ferrari,suv,SL,SL1,2024,2,2.0,2.0,0.0
+ferrari,core supercar,SL,SL1,2025,1,1.0,1.0,0.0
+bentley,suv,MK,MK14 5,2024,1,1.0,1.0,0.0
+bentley,suv,BD,BD1,2024,1,1.0,1.0,0.0
+bentley,gt,MK,MK14 5,2025,1,1.0,1.0,0.0
+lamborghini,core supercar,BD,BD1,2024,1,1.0,1.0,0.0
+lamborghini,suv,BD,BD1,2023,1,1.3333333333333333,1.0,0.0

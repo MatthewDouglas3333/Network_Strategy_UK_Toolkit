@@ -1,0 +1,23 @@
+brand_key,sub_segment_key,year,excess_total,redistributed_in,unredistributed
+bentley,gt,2022,0.19999999999999996,0.19999999999999996,0.0
+bentley,suv,2022,6.6,6.6,0.0
+bentley,suv,2023,2.0,2.0,0.0
+bentley,suv,2025,1.0,1.0,0.0
+ferrari,core supercar,2022,0.75,0.75,0.0
+ferrari,core supercar,2023,0.6666666666666665,0.6666666666666665,0.0
+ferrari,core supercar,2024,0.75,0.75,0.0
+ferrari,gt,2022,2.6666666666666665,2.6666666666666665,0.0
+ferrari,gt,2023,1.0,1.0,0.0
+ferrari,gt,2024,1.75,1.75,0.0
+ferrari,upper gt,2025,1.5,1.5,0.0
+ferrari,upper supercar,2022,1.0,1.0,0.0
+ferrari,upper supercar,2023,1.0,1.0,0.0
+lamborghini,core supercar,2022,8.0,8.0,0.0
+lamborghini,core supercar,2023,13.0,13.0,0.0
+lamborghini,core supercar,2024,8.0,8.0,0.0
+lamborghini,suv,2022,20.0,20.0,0.0
+lamborghini,suv,2023,43.0,43.0,0.0
+lamborghini,suv,2024,2.7777777777777777,2.7777777777777777,0.0
+lamborghini,upper supercar,2022,3.0,3.0,0.0
+rolls-royce,suv,2022,2.0,2.0,0.0
+rolls-royce,suv,2023,2.5,2.5,0.0
